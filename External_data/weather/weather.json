@@ -1,0 +1,128 @@
+[
+    {
+        "district": "Thiruvananthapuram",
+        "time": "2025-09-26T11:23:39",
+        "temperature_c": 25.85,
+        "feels_like_c": 26.66,
+        "humidity": 83,
+        "weather": "Mist",
+        "description": "mist"
+    },
+    {
+        "district": "Kollam",
+        "time": "2025-09-26T11:23:41",
+        "temperature_c": 25.3,
+        "feels_like_c": 26.16,
+        "humidity": 87,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Pathanamthitta",
+        "time": "2025-09-26T11:23:42",
+        "temperature_c": 26.02,
+        "feels_like_c": 26.02,
+        "humidity": 86,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Alappuzha",
+        "time": "2025-09-26T11:23:44",
+        "temperature_c": 26.87,
+        "feels_like_c": 29.63,
+        "humidity": 82,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Kottayam",
+        "time": "2025-09-26T11:23:45",
+        "temperature_c": 27.68,
+        "feels_like_c": 31.45,
+        "humidity": 81,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Idukki",
+        "time": "2025-09-26T11:23:47",
+        "temperature_c": 23.11,
+        "feels_like_c": 23.28,
+        "humidity": 69,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Ernakulam",
+        "time": "2025-09-26T11:23:48",
+        "temperature_c": 27.92,
+        "feels_like_c": 32.36,
+        "humidity": 83,
+        "weather": "Mist",
+        "description": "mist"
+    },
+    {
+        "district": "Thrissur",
+        "time": "2025-09-26T11:23:50",
+        "temperature_c": 27.25,
+        "feels_like_c": 30.86,
+        "humidity": 85,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Palakkad",
+        "time": "2025-09-26T11:23:52",
+        "temperature_c": 29.68,
+        "feels_like_c": 36.68,
+        "humidity": 89,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Malappuram",
+        "time": "2025-09-26T11:23:53",
+        "temperature_c": 28.44,
+        "feels_like_c": 32.18,
+        "humidity": 74,
+        "weather": "Clouds",
+        "description": "scattered clouds"
+    },
+    {
+        "district": "Kozhikode",
+        "time": "2025-09-26T11:23:55",
+        "temperature_c": 28.55,
+        "feels_like_c": 32.1,
+        "humidity": 72,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Wayanad",
+        "time": "2025-09-26T11:23:56",
+        "temperature_c": 25.47,
+        "feels_like_c": 25.56,
+        "humidity": 57,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Kannur",
+        "time": "2025-09-26T11:23:58",
+        "temperature_c": 28.12,
+        "feels_like_c": 30.9,
+        "humidity": 70,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    },
+    {
+        "district": "Kasaragod",
+        "time": "2025-09-26T11:23:59",
+        "temperature_c": 26.45,
+        "feels_like_c": 26.45,
+        "humidity": 71,
+        "weather": "Clouds",
+        "description": "overcast clouds"
+    }
+]
