@@ -1,9 +1,15 @@
 import requests
 import json
 from datetime import datetime
+from dotenv import load_dotenv
+import os
+
+# Load variables from .env
+load_dotenv()
+
 
 API_HOST = "open-weather13.p.rapidapi.com"
-API_KEY = "2beace1d4fmshd652c14b0cb8972p12d5c2jsn171474c41d62"
+API_KEY = os.getenv("WEATHER_API_KEY")
 districts = {
     "Thiruvananthapuram": (8.5241, 76.9366),
     "Kollam": (8.8932, 76.6141),

@@ -2,9 +2,16 @@ from pydantic import BaseModel, Field
 from typing import List, Optional
 from llama_cloud import ExtractConfig, ExtractMode
 from llama_cloud_services import LlamaExtract
+from dotenv import load_dotenv
+import os
+
+# Load variables from .env
+load_dotenv()
+
+LLAMA_KEY = os.getenv("LLAMA_KEY")
 
 # Initialize the extractor client
-extractor = LlamaExtract(api_key="llx-MryLy9qQSaEvXY687md3GlaMGXSkx0p6eqCRs55T0vLh6JXr")
+extractor = LlamaExtract(api_key=LLAMA_KEY)
 
 
 # Nested schema for irrigation details
