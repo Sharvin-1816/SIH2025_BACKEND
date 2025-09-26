@@ -1,0 +1,581 @@
+{
+    "news": [
+        {
+            "title": "Prices of onions, pulses, cotton hit 3-year low",
+            "content": "Sep 26, 2025, 12:13 AM ISTPrices of essential commodities like onions and pulses have plummeted to multi-year lows due to increased imports and reduced exports. A surge in pulse imports, coupled with bumper crops in countries like Australia and Brazil, has suppressed domestic prices. Government intervention through buffer stock releases and excess rainfall impacting crop quality are further contributing to the price decline.",
+            "scores": {
+                "Harmful for farmers": 0.5430570244789124,
+                "Neutral": 0.394029438495636,
+                "Positive for farmers": 0.06291352212429047
+            }
+        },
+        {
+            "title": "SC seeks response of Centre on PIL seeking import curbs on yellow peas",
+            "content": "Sep 25, 2025, 12:28 PM ISTThe Supreme Court has asked the Central government for a response. This concerns a Public Interest Litigation about restricting yellow pea imports. The plea argues these imports harm pulse farmers' livelihoods. Kisan Mahapanchayat filed the PIL. Advocate Prashant Bhushan represents the farmers. The court wants to ensure consumers don't suffer from potential shortages.",
+            "scores": {
+                "Harmful for farmers": 0.9632181525230408,
+                "Neutral": 0.023488782346248627,
+                "Positive for farmers": 0.013293075375258923
+            }
+        },
+        {
+            "title": "25K prawn farmers, 62 seafood entrepreneurs in Odisha affected by US tariff hike: Minister",
+            "content": "Sep 24, 2025, 03:02 PM ISTA recent US tariff hike on Indian goods has significantly impacted Odisha's seafood industry, affecting 62 processing entrepreneurs and 25,000 prawn farmers. The additional tariffs, including penalties for purchasing Russian crude oil, have disrupted exports, with 24.5% of Odisha's marine products destined for the US.",
+            "scores": {
+                "Harmful for farmers": 0.9653388857841492,
+                "Neutral": 0.027007613331079483,
+                "Positive for farmers": 0.007653475273400545
+            }
+        },
+        {
+            "title": "Parliament panel flags surge in cheap tea imports from Kenya, Nepal; seeks stricter labelling rules",
+            "content": "Sep 18, 2025, 08:22 PM ISTThe Parliamentary Standing Committee on Commerce is concerned about the surge in cheap tea imports from Kenya and Nepal. They've urged the Tea Board to enforce mandatory labeling and source declaration to protect India-origin tea's reputation. The committee also suggests reviewing the Indo-Nepal trade agreement and implementing strict measures to safeguard Darjeeling tea's GI tag from adulteration.",
+            "scores": {
+                "Harmful for farmers": 0.5194981098175049,
+                "Neutral": 0.3833317160606384,
+                "Positive for farmers": 0.09717009961605072
+            }
+        },
+        {
+            "title": "Kisan activists want agri office to be moved to Pinjore apple mandi for now",
+            "content": "68% of India’s farmland drought-prone, south worst hit: Climate experts warn A national conference in Mulugu district has issued a stark warning about India's agricultural future. Experts revealed that nearly 68% of India's sown land is vulnerable to drought, impacting vegetable productivity. minister’s convoy in Hingoli demanding wet drought declaration",
+            "scores": {
+                "Harmful for farmers": 0.9086447954177856,
+                "Neutral": 0.07083454728126526,
+                "Positive for farmers": 0.020520662888884544
+            }
+        },
+        {
+            "title": "Heavy rain damages 273 hectares of crops in district",
+            "content": "Punjab and Sind Bank recruitment 2025: Apply online for MMGS-II posts at punjabandsind.bank.in Punjab and Sind Bank recruitment 2025: Punjab and Sind Bank has released a recruitment notification for 190 MMGS-II posts, including Credit Manager and Manager roles. The online application process commenced on September 19, 2025, and will conclude on October 10, 2025. Eligible candidates can apply via punjabandsind.bank.in. The selection process includes professional preference for qualifications such as CA, CMA, CFA, or MBA (Finance). Appointed candidates will receive a monthly salary between Rs 64,820 and Rs 93,960.",
+            "scores": {
+                "Harmful for farmers": 0.7252126932144165,
+                "Neutral": 0.22347065806388855,
+                "Positive for farmers": 0.05131663382053375
+            }
+        },
+        {
+            "title": "Flood relief efforts in Maharashtra have been marred by controversy as Deputy CM Shinde and minister Sarnaik faced criticism for distributing aid with their posters, sparking accusations of political exploitation. Farmers in Jalna protested against the slow assessment of crop losses, prompting assurances of compensation before Diwali. Ministers are visiting affected areas to expedite the process and provide relief.",
+            "content": "B Ashok’s transfer: Kerala HC asks CAT to consider petitions’ maintainability Tractors, 2-wheelers to see high single digit growth in FY26: ICRA Panel proposes merger of 2 Mizoram PSUs to curb losses",
+            "scores": {
+                "Harmful for farmers": 0.6456934809684753,
+                "Neutral": 0.2817496955394745,
+                "Positive for farmers": 0.07255677878856659
+            }
+        },
+        {
+            "title": "Frustrated by unaddressed demands, they've threatened to boycott the upcoming rabi campaign",
+            "content": "Punjab minister Tarunpreet Singh Sond’s gives call against field fires in Ludhiana. TNN / Sep 25, 2025, 01:18 (IST) PAU, ICAR launch centres to empower rural women in Ludhiana. TNN / Sep 20, 2025, 01:30 (IST) 56,301 crop damage applications being processed Sep 23, 2025, 23:56 (IST) 56,301 crop damage applications being processed Sep 23, 2025, 23:55 (IST) How to effectively pass on GST benefits to farmers? agriculture minister to deliberate today TNN / Sep 19, 2025, 05:00 (IST) Kisan activists want agri office to be moved to Pinjore apple mandi for now TNN / Sep 21, 2025, 00:24 (IST) 68% of India’s farmland drought-prone, south worst hit: Climate experts warn TNN / Sep 19, 2025, 23:45 (IST) A national conference in Mulugu district has issued a stark warning about India's agricultural future",
+            "scores": {
+                "Harmful for farmers": 0.658005952835083,
+                "Neutral": 0.2653990089893341,
+                "Positive for farmers": 0.07659509032964706
+            }
+        },
+        {
+            "title": "Experts revealed that nearly 68% of India's sown land is vulnerable to drought, impacting vegetable productivity",
+            "content": "Protesters block agriculture minister’s convoy in Hingoli demanding wet drought declaration Sep 21, 2025, 00:18 (IST) Heavy rain damages 273 hectares of crops in district Sep 24, 2025, 04:08 (IST) Punjab and Sind Bank recruitment 2025: Apply online for MMGS-II posts at punjabandsind.bank.in TOI Education / Sep 20, 2025, 19:07 (IST) Punjab and Sind Bank recruitment 2025: Punjab and Sind Bank has released a recruitment notification for 190 MMGS-II posts, including Credit Manager and agriculture Manager roles. The online application process commenced on September 19, 2025, and will conclude on October 10, 2025. Eligible candidates can apply via punjabandsind.bank.in",
+            "scores": {
+                "Harmful for farmers": 0.644701361656189,
+                "Neutral": 0.309134840965271,
+                "Positive for farmers": 0.046163834631443024
+            }
+        }
+    ],
+    "scheme": [
+        {
+            "scheme_name": "List of Agriculture Schemes in India by Ministry of Agriculture",
+            "scheme_details": "The Ministry of Agriculture in India plays a pivotal role in enhancing the nation's agrarian output and ensuring food security. Recognizing the challenges faced by farmers, it has launched numerous schemes to promote sustainable farming and boost productivity. Initiatives like the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) provide direct income support, while the Rashtriya Krishi Vikas Yojana (RKVY) aims for holistic agricultural growth. The National Food Security Mission (NFSM) focuses on increasing staple food production. Each scheme, meticulously designed, reflects the Ministry's commitment to transforming India's agricultural landscape and empowering its farming community. The below mentioned are some of the major Agricultural Schemes in India:",
+            "keywords": [
+                "agriculture",
+                "schemes",
+                "india",
+                "ministry",
+                "plays",
+                "pivotal",
+                "enhancing",
+                "agrarian"
+            ]
+        },
+        {
+            "scheme_name": "Pradhan Mantri KISAN Samman Nidhi(PM-KISAN)",
+            "scheme_details": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) Yojana is a farmer welfare scheme launched by the Government of India. Under this scheme, the government provides a direct benefit of Rs 6,000 per year to all small and marginal farmers in the country. This benefit is provided in three installments every 4 months. The objective of the PM-KISAN scheme is to promote farmers' income and make them self-reliant. The eligibility criteria for the PM-KISAN scheme are as follows: To avail of the benefits of the PM-KISAN scheme, the farmer has to apply online on the official website of the scheme. Along with the application, the farmer has to upload his/her Aadhaar card, bank account details, and land ownership documents. The PM-KISAN scheme is an important farmer welfare scheme. This scheme will benefit crores of farmers in the country. This scheme will increase the income of farmers and make them self-reliant. Here are some of the benefits of the PM-KISAN scheme: The PM-KISAN scheme is a very important initiative by the Government of India. This scheme will have a positive impact on the lives of millions of farmers in the country.",
+            "keywords": [
+                "pradhan",
+                "mantri",
+                "kisan",
+                "samman",
+                "nidhi",
+                "yojana",
+                "farmer",
+                "welfare"
+            ]
+        },
+        {
+            "scheme_name": "Pradhan Mantri Fasal Bima Yojana",
+            "scheme_details": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is a crop insurance scheme launched by the Government of India in 2016. The scheme aims to provide financial protection to farmers against crop losses due to natural calamities, pests, and diseases. The scheme is mandatory for all farmers cultivating notified crops in notified areas. The premium for the scheme is shared between the government and the farmers. The government bears 50% of the premium for small and marginal farmers, while the farmers bear the remaining 50%. The scheme provides coverage against crop losses due to drought, flood, hailstorm, cyclone, pests, and disease. The scheme also provides coverage against post-harvest losses due to fire, theft, and other unforeseen events. The scheme is administered by the National Agricultural Insurance Company (NIAC) and its subsidiaries. The scheme has been well-received by farmers and has helped to reduce their vulnerability to crop losses. Here are some of the benefits of the PMFBY scheme: The PMFBY scheme is a major step towards ensuring food security in India. The scheme has helped to reduce farmers' vulnerability to crop losses and has helped to improve their income. The scheme is a major boost to the agricultural sector and is helping to promote sustainable agriculture.",
+            "keywords": [
+                "pradhan",
+                "mantri",
+                "fasal",
+                "yojana",
+                "insurance",
+                "scheme",
+                "launched",
+                "government"
+            ]
+        },
+        {
+            "scheme_name": "Pradhan Mantri Krishi Sinchai Yojana",
+            "scheme_details": "The Pradhan Mantri Krishi Sinchai Yojana (PMKSY) is a centrally sponsored scheme launched by the Government of India in 2015. The scheme aims to provide financial assistance to farmers for the installation of micro-irrigation systems. The scheme is open to all farmers who own less than 2 hectares of land. The financial assistance is provided in the form of a loan, which is to be repaid over a period of 5 years. The loan is interest-free for the first two years. The scheme has been well-received by farmers and has helped to increase the adoption of micro-irrigation systems. The scheme has also helped to improve the efficiency of water use and has led to an increase in crop production. Here are some of the benefits of the PMKSY scheme: The PMKSY scheme is a major step towards ensuring food security in India. The scheme has helped to increase the adoption of micro-irrigation systems and has led to an increase in crop production. The scheme is a major boost to the agricultural sector and is helping to promote sustainable agriculture.",
+            "keywords": [
+                "pradhan",
+                "mantri",
+                "krishi",
+                "sinchai",
+                "yojana",
+                "centrally",
+                "sponsored",
+                "scheme"
+            ]
+        },
+        {
+            "scheme_name": "Ayushman Sahakar Scheme",
+            "scheme_details": "The Ayushman Sahakar Scheme is a government-funded program that provides financial assistance to cooperative societies in India to help them improve their health infrastructure. The scheme was launched in 2023 with a budget of Rs. 10,000 crore. The scheme provides financial assistance to cooperative societies for a variety of purposes, including: The scheme is expected to benefit over 100 million people in India. It is a major step towards improving access to quality health care in rural and underserved areas. Here are some of the benefits of the Ayushman Sahakar Scheme: The Ayushman Sahakar Scheme is a major initiative by the government to improve access to quality health care in India. It is a welcome step that is expected to benefit millions of people. Know About food and agriculture organisation fao.",
+            "keywords": [
+                "ayushman",
+                "sahakar",
+                "scheme",
+                "program",
+                "provides",
+                "financial",
+                "assistance",
+                "cooperative"
+            ]
+        },
+        {
+            "scheme_name": "E-NAM (National Agriculture Market)",
+            "scheme_details": "eNAM, or the National Agriculture Market, is a pan-India electronic trading portal that networks the existing APMC (Agriculture Produce Marketing Committee) mandis to create a unified national market for agricultural commodities. It was launched on April 14, 2016, by the Ministry of Agriculture and Farmers' Welfare, Government of India. eNAM aims to address the challenges faced by farmers in the traditional agricultural markets, such as: eNAM provides a number of benefits to farmers, traders, and buyers, including: As of March 8, 2023, there are 1,260 mandis onboarded on the eNAM platform in 22 states and 3 union territories. The platform has facilitated trade of over 120 million MT of agricultural commodities worth over Rs. 1.2 trillion. The biggest agriculture market in India is the Enumamula Agriculture Market in Warangal, Telangana. It is the largest wholesale market for turmeric in the world. Here are some of the key features of eNAM: eNAM is a major government initiative to improve the agricultural market in India. It can potentially revolutionize the way agricultural commodities are traded in the country.",
+            "keywords": [
+                "agriculture",
+                "national",
+                "electronic",
+                "trading",
+                "portal",
+                "networks",
+                "existing",
+                "produce"
+            ]
+        },
+        {
+            "scheme_name": "Pradhan Mantri Kisan Maan-Dhan Yojana (PM-KMY)",
+            "scheme_details": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY) is a voluntary and contributory pension scheme for small and marginal farmers in India. The scheme was launched on 12 September 2019 by Prime Minister Narendra Modi. The main objective of the PM-KMY is to provide a guaranteed monthly pension of Rs. 3,000 to small and marginal farmers after they reach the age of 60 years. The scheme is open to all small and marginal farmers who are between the ages of 18 and 40 years and who have cultivable land up to 2 hectares. To join the scheme, farmers need to open a pension account with the Life Insurance Corporation of India (LIC). The minimum monthly contribution to the scheme is Rs. 55 and the maximum monthly contribution is Rs. 200. The contribution amount is fixed for the entire period of 20 years or until the farmer reaches the age of 60 years, whichever is earlier. The government will match the contribution made by the farmer up to a limit of Rs. 1,000 per month. This means that if a farmer contributes Rs. 55 per month, the government will contribute Rs. 55 per month. If a farmer contributes Rs. 200 per month, the government will contribute Rs. 1,000 per month. After the farmer reaches the age of 60 years, he/she will start receiving a monthly pension of Rs. 3,000. The pension will be paid for the rest of the farmer's life. The PM-KMY is a unique and innovative scheme that will provide a guaranteed monthly pension to small and marginal farmers in India. The scheme is expected to benefit millions of farmers and will help to improve their financial security in old age.",
+            "keywords": [
+                "pradhan",
+                "mantri",
+                "kisan",
+                "yojana",
+                "maandhan",
+                "voluntary",
+                "contributory",
+                "pension"
+            ]
+        },
+        {
+            "scheme_name": "Krishi Kalyan Abhiyan",
+            "scheme_details": "Krishi Kalyan Abhiyan (KKA) is a centrally sponsored scheme launched by the Ministry of Agriculture and Farmers' Welfare in 2018. The scheme aims to improve the income and livelihood of farmers in aspirational districts of India. The KKA is implemented in 112 aspirational districts across the country. The scheme covers a wide range of activities, including: The KKA has been a major success since its launch. In the first two phases of the scheme, over 11 lakh farmers were trained, and over 5000 frontline demonstrations were conducted. The scheme has also helped to improve the soil health of over 15 lakh hectares of land. The KKA is a flagship scheme of the government to improve the lives of farmers in India. Here are some of the key features of the Krishi Kalyan Abhiyan: The Krishi Kalyan Abhiyan is a major step forward in the government's efforts to improve the lives of farmers in India. Know about Urban Agriculture in India.",
+            "keywords": [
+                "krishi",
+                "kalyan",
+                "abhiyan",
+                "centrally",
+                "sponsored",
+                "scheme",
+                "launched",
+                "ministry"
+            ]
+        },
+        {
+            "scheme_name": "Soil Health Cards (SHC) Scheme",
+            "scheme_details": "The Soil Health Card (SHC) Scheme is a government initiative launched in 2015 to improve the soil health of agricultural land in India. The scheme aims to provide farmers with a detailed analysis of the nutrient content of their soil, along with recommendations for how to improve soil health and productivity. The SHC scheme is implemented by the Department of Agriculture, Cooperation and Farmers' Welfare, Government of India. The scheme is being implemented in all states and union territories of India. Under the SHC scheme, a soil sample is collected from each farmer's field and sent to a laboratory for analysis. The laboratory tests the soil sample for 12 different parameters, including: Based on the soil analysis results, the laboratory will issue a Soil Health Card to the farmer. The Soil Health Card will contain the following information: The SHC scheme is a valuable tool for farmers to improve the soil health of their land and increase crop productivity. The scheme has been well-received by farmers and has been credited with helping to improve the soil health of millions of hectares of land in India. Here are some of the benefits of the Soil Health Card Scheme: The Soil Health Card Scheme is a major step forward in the government's efforts to improve agricultural productivity and sustainability in India.",
+            "keywords": [
+                "health",
+                "cards",
+                "scheme",
+                "government",
+                "initiative",
+                "launched",
+                "improve",
+                "agricultural"
+            ]
+        },
+        {
+            "scheme_name": "National Bamboo Mission",
+            "scheme_details": "The National Bamboo Mission (NBM) is a government scheme launched in 2018 to promote the cultivation and use of bamboo in India. The scheme aims to increase the area under bamboo cultivation, improve the quality of bamboo products, and create new employment opportunities in the bamboo sector. The NBM is implemented by the Ministry of Agriculture and Farmers' Welfare, Government of India. The scheme is being implemented in all states and union territories of India. Under the NBM, the government provides financial assistance for a variety of activities, including: The NBM has been a major success since its launch. In the first two years of the scheme, over 1 lakh hectares of land have been brought under bamboo cultivation, and over 1 lakh bamboo farmers have been trained. The scheme has also helped to create over 10,000 new jobs in the bamboo sector. The NBM is a major step forward in the government's efforts to promote the cultivation and use of bamboo in India. The scheme has the potential to revolutionize the bamboo sector in the country and help to achieve the goal of doubling farmers' income by 2022. Here are some of the benefits of the National Bamboo Mission: The National Bamboo Mission is a major government initiative to promote the cultivation and use of bamboo in India. The scheme has the potential to revolutionize the bamboo sector in the country and help to achieve the goal of doubling farmers' income by 2022. Know About Maharashtra Agriculture Export Policy.",
+            "keywords": [
+                "national",
+                "bamboo",
+                "mission",
+                "government",
+                "scheme",
+                "launched",
+                "promote",
+                "cultivation"
+            ]
+        },
+        {
+            "scheme_name": "Green Revolution – Krishonnati Yojana",
+            "scheme_details": "The Indian government introduced the Krishonnati Yojana in 2005, aiming to holistically uplift the agricultural sector. The central objective is to use scientific approaches to improve farmers' incomes and to enhance agricultural production and returns. This flagship initiative comprises 11 distinct schemes under one umbrella: Together, these schemes showcase India's dedication to reinforcing its agricultural backbone, ensuring sustainability, profitability, and overall growth for its agrarian community.",
+            "keywords": [
+                "green",
+                "revolution",
+                "krishonnati",
+                "yojana",
+                "indian",
+                "government",
+                "introduced",
+                "aiming"
+            ]
+        },
+        {
+            "scheme_name": "Yuva Sahakar-Cooperative Enterprise Support and Innovation Scheme",
+            "scheme_details": "The Yuva Sahakar-Cooperative Enterprise Support and Innovation Scheme (Yuva Sahakar) is a government scheme launched in 2018 to promote youth entrepreneurship in the cooperative sector. The scheme aims to provide financial assistance and support to young people who want to start or run a cooperative enterprise. The Yuva Sahakar scheme is implemented by the National Cooperative Development Corporation (NCDC). The scheme is open to all young people who are between the ages of 18 and 35 years and who have a minimum educational qualification of 10+2. Under the Yuva Sahakar scheme, the government provides financial assistance of up to Rs. 3 crore for a cooperative enterprise. The interest rate on the loan is 2% less than the prevailing rate for term loans. The loan can be used for a variety of purposes, including: The Yuva Sahakar scheme also provides other support to young entrepreneurs, such as: The Yuva Sahakar scheme is a major step forward in the government's efforts to promote youth entrepreneurship in the cooperative sector. The scheme can potentially create new jobs and opportunities for young people in rural areas. Here are some of the key features of the Yuva Sahakar scheme: The Yuva Sahakar scheme is a great opportunity for young people who want to start or run a cooperative enterprise. The scheme provides financial assistance, training, and other support that can help young entrepreneurs succeed.",
+            "keywords": [
+                "enterprise",
+                "support",
+                "innovation",
+                "scheme",
+                "government",
+                "launched",
+                "promote",
+                "youth"
+            ]
+        },
+        {
+            "scheme_name": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan (PM-AASHA)",
+            "scheme_details": "Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA) is a centrally sponsored scheme launched by the Government of India in 2018 to provide price support to farmers for their produce. The Ministry of Agriculture and Farmers Welfare implements the scheme. The objective of PM-AASHA is to provide a minimum price to farmers for their produce, which will help to stabilize their income and ensure their food security. The scheme is also aimed at reducing the cost of production for farmers and increasing their production. The scheme is open to all farmers who grow notified crops, such as wheat, rice, pulses, oilseeds, and sugarcane. The government will provide a minimum price for each crop, which will be based on the cost of production and the market price. The scheme is expected to benefit around 120 million farmers in India. The government has allocated Rs 20,000 crore for the scheme in the current financial year. The scheme has been welcomed by farmers' organizations, who have said that it will help to improve their income and livelihood. The scheme has also been welcomed by the industry, which has said that it will help to stabilize the prices of agricultural commodities. The scheme is a major step forward in the government's efforts to improve the lives of farmers in India. The scheme has the potential to revolutionize the agricultural sector in the country and help to achieve the goal of doubling farmers' income by 2022. Here are some of the key features of PM-AASHA: Know About Agriculture Infrastructure Fund.",
+            "keywords": [
+                "pradhan",
+                "mantri",
+                "annadata",
+                "sanrakshan",
+                "abhiyan",
+                "centrally",
+                "sponsored",
+                "scheme"
+            ]
+        },
+        {
+            "scheme_name": "Paramparagat Krishi Vikas Yojana",
+            "scheme_details": "Paramparagat Krishi Vikas Yojana (PKVY) is an Indian government scheme launched in 2015 to promote organic farming. The scheme aims to increase the area under organic cultivation, improve the quality of organic products, and create new employment opportunities in the organic sector. The PKVY is implemented by the Ministry of Agriculture and Farmers Welfare, Government of India. The scheme is being implemented in all states and union territories of India. Under the PKVY, the government provides financial assistance for a variety of activities, including: PKVY has been a major success since its launch. In the first three years of the scheme, over 2 million hectares of land have been brought under organic cultivation, and over 1 million farmers have been trained. The scheme has also helped to create over 10,000 new jobs in the organic sector. The PKVY is a major step forward in the government's efforts to promote organic farming in India. The scheme has the potential to revolutionize the organic sector in the country and help to achieve the goal of doubling farmers' income by 2022. Here are some of the benefits of the Paramparagat Krishi Vikas Yojana: The Paramparagat Krishi Vikas Yojana is a major government initiative to promote organic farming in India. The scheme has the potential to revolutionize the organic sector in the country and help to achieve the goal of doubling farmers' income by 2022.",
+            "keywords": [
+                "paramparagat",
+                "krishi",
+                "vikas",
+                "yojana",
+                "indian",
+                "government",
+                "scheme",
+                "launched"
+            ]
+        },
+        {
+            "scheme_name": "National Food Security Mission",
+            "scheme_details": "The National Food Security Mission (NFSM) is a government scheme launched in 2007 to increase the production of rice, wheat, and pulses in India. The Ministry of Agriculture and Farmers Welfare, Government of India implements the scheme. The objective of the NFSM is to achieve self-sufficiency in food grains and to ensure food security for the people of India. The scheme is also aimed at improving the income of farmers and reducing poverty in rural areas. The NFSM is being implemented in 638 districts in the country. The scheme covers a wide range of activities, including: The NFSM has been a major success since its launch. In the first five years of the scheme, the production of rice, wheat, and pulses increased by 20%, 25%, and 30%, respectively. The scheme has also helped to improve the income of farmers and reduce poverty in rural areas. The NFSM is a major step forward in the government's efforts to achieve food security for the people of India. Here are some of the key features of the National Food Security Mission: The NFSM is a major government initiative to increase food production in India.",
+            "keywords": [
+                "national",
+                "security",
+                "mission",
+                "government",
+                "scheme",
+                "launched",
+                "increase",
+                "production"
+            ]
+        },
+        {
+            "scheme_name": "Pandit Deen Dayal Upadhyay Unnat Krishi Shiksha Yojana (PDDUUKSY)",
+            "scheme_details": "Pandit Deen Dayal Upadhyay Unnat Krishi Shiksha Yojana (PDDUUKSY) is a government scheme launched in 2016 to promote organic farming, natural farming, and a cow-based economy for environmental sustenance and soil health. The scheme is implemented by the Indian Council of Agricultural Research (ICAR). The objective of the PDDUUKSY is to develop human resources in organic farming, natural farming, and a cow-based economy for environmental sustenance and soil health. The scheme is also aimed at promoting sustainable agriculture practices and reducing the use of chemical fertilizers and pesticides. The PDDUUKSY is being implemented in all states and union territories of India. The scheme covers a wide range of activities, including: The PDDUUKSY has been a major success since its launch. In the first five years of the scheme, over 1 million farmers have been trained in organic farming, natural farming, and cow-based economy. The scheme has also helped to establish over 10,000 organic farming, natural farming, and cow-based economy training centres. The PDDUUKSY is a major step forward in the government's efforts to promote sustainable agriculture practices and reduce the use of chemical fertilizers and pesticides. The scheme has the potential to revolutionize the agricultural sector in the country and help to achieve the goal of doubling farmers' income by 2022. Here are some of the key features of the Pandit Deen Dayal Upadhyay Unnat Krishi Shiksha Yojana (PDDUUKSY): The PDDUUKSY is a major initiative of the government to promote sustainable agriculture practices and reduce the use of chemical fertilizers and pesticides. Know About the Sub-Mission on Agriculture Mechanization (SMAM).",
+            "keywords": [
+                "pandit",
+                "dayal",
+                "upadhyay",
+                "unnat",
+                "krishi",
+                "shiksha",
+                "yojana",
+                "government"
+            ]
+        },
+        {
+            "scheme_name": "Rashtriya Gokul Mission",
+            "scheme_details": "The Rashtriya Gokul Mission (RGM) is a government scheme launched in 2014 to conserve and develop indigenous cattle breeds in India. The scheme is implemented by the Department of Animal Husbandry and Dairying, Government of India. The objective of the RGM is to increase the population of indigenous breeds of cattle, improve their milk production, and conserve their genetic diversity. The scheme is also aimed at promoting the use of indigenous cattle breeds for sustainable agriculture. The RGM is being implemented in all states and union territories of India. The scheme covers a wide range of activities, including: The RGM has been a major success since its launch. In the first five years of the scheme, over 100 Gokul Grams have been established, and over 10,000 farmers have been trained in indigenous cattle breeding. The scheme has also helped to increase the population of indigenous cattle breeds by 20%. The RGM is a major step forward in the government's efforts to conserve and develop indigenous cattle breeds in India. The scheme has the potential to revolutionize the dairy sector in the country and help to achieve the goal of doubling farmers' income by 2022. Here are some of the key features of the Rashtriya Gokul Mission (RGM): The Rashtriya Gokul Mission is a major government initiative to conserve and develop indigenous cattle breeds in India.",
+            "keywords": [
+                "rashtriya",
+                "gokul",
+                "mission",
+                "government",
+                "scheme",
+                "launched",
+                "conserve",
+                "develop"
+            ]
+        },
+        {
+            "scheme_name": "Mission Amrit Sarovar",
+            "scheme_details": "Mission Amrit Sarovar is a nationwide initiative launched by the Government of India in 2022. This aims to revive and rejuvenate traditional water bodies like ponds and lakes. The scheme aims to develop at least 75 Amrit Sarovar (ponds) in every district of the country. These ponds will serve as a source of irrigation, drinking water, and fish breeding. They will also help replenish groundwater levels and provide a habitat for various aquatic plants and animals. The Ministry of Jal Shakti is implementing the scheme. It involves: The government is also providing financial assistance to states for the implementation of the scheme.",
+            "keywords": [
+                "mission",
+                "amrit",
+                "sarovar",
+                "nationwide",
+                "initiative",
+                "launched",
+                "government",
+                "india"
+            ]
+        },
+        {
+            "scheme_name": "National Beekeeping and Honey Mission",
+            "scheme_details": "The National Beekeeping and Honey Mission (NBHM) is a centrally sponsored scheme launched in 2020 by the Government of India. It promotes scientific beekeeping and honey production in the country. The mission aims to double the production of honey in India by 2025. NBHM is being implemented by the Ministry of Agriculture and Farmers Welfare in collaboration with state governments. The scheme provides training, equipment, and financial assistance to beekeepers. It also promotes the use of modern beekeeping practices and technologies. The mission has been successful in increasing honey production in India. The country's honey production has increased from 12,000 metric tons in 2019-20 to 20,000 metric tons in 2022-23. Know About the Sub-Mission on Agriculture Mechanization (SMAM).",
+            "keywords": [
+                "national",
+                "beekeeping",
+                "honey",
+                "mission",
+                "centrally",
+                "sponsored",
+                "scheme",
+                "launched"
+            ]
+        },
+        {
+            "scheme_name": "National Mission on Edible Oils",
+            "scheme_details": "The National Mission on Edible Oils – Oil Palm (NMEO-OP) is a centrally sponsored scheme launched in 2021 by the Government of India. It increases the domestic production of edible oils, particularly palm oil. The mission aims to achieve self-sufficiency in edible oil production by 2030. NMEO-OP is being implemented by the Ministry of Agriculture and Farmers Welfare. The scheme provides incentives to farmers to grow oil palm trees. It also promotes the development of oil palm processing mills and other infrastructure. The mission is still in its early stages, but it has the potential to significantly reduce India's dependence on imported edible oils.",
+            "keywords": [
+                "national",
+                "mission",
+                "edible",
+                "centrally",
+                "sponsored",
+                "scheme",
+                "launched",
+                "government"
+            ]
+        },
+        {
+            "scheme_name": "National Mission on Natural Farming",
+            "scheme_details": "The National Mission on Natural Farming (NMNF) is a centrally sponsored scheme launched in 2021 by the Government of India. It promotes the use of natural farming methods in the country. The mission aims to increase the area under natural farming by 50% by 2025. NMNF is being implemented by the Ministry of Agriculture and Farmers Welfare. The scheme provides training, support, and financial aid to farmers who adopt natural farming practices. Natural farming is a sustainable and environmentally friendly approach to agriculture. It uses natural inputs such as compost and manure to improve soil health and crop productivity. It also avoids the use of synthetic chemicals and pesticides. The mission has the potential to significantly reduce the environmental impact of agriculture in India.",
+            "keywords": [
+                "national",
+                "mission",
+                "natural",
+                "farming",
+                "centrally",
+                "sponsored",
+                "scheme",
+                "launched"
+            ]
+        },
+        {
+            "scheme_name": "National Scheme of Welfare of Fishermen",
+            "scheme_details": "The National Scheme of Welfare of Fishermen (NSWF) is a centrally sponsored scheme launched in 2006. It aims to improve the socio-economic conditions of fishermen in the country. The scheme provides a variety of benefits to fishermen, including subsidies, insurance, and training. NSWF is being implemented by the Ministry of Fisheries, Animal Husbandry and Dairying. The scheme has been successful in improving the livelihoods of fishermen in India. We hope you found this article on “Agriculture Schemes in India” useful and informative. For more such exam-oriented content,",
+            "keywords": [
+                "national",
+                "scheme",
+                "welfare",
+                "fishermen",
+                "centrally",
+                "sponsored",
+                "launched",
+                "improve"
+            ]
+        }
+    ],
+    "weather": [
+        {
+            "district": "Thiruvananthapuram",
+            "time": "2025-09-26T11:23:39",
+            "temperature_c": 25.85,
+            "feels_like_c": 26.66,
+            "humidity": 83,
+            "weather": "Mist",
+            "description": "mist"
+        },
+        {
+            "district": "Kollam",
+            "time": "2025-09-26T11:23:41",
+            "temperature_c": 25.3,
+            "feels_like_c": 26.16,
+            "humidity": 87,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Pathanamthitta",
+            "time": "2025-09-26T11:23:42",
+            "temperature_c": 26.02,
+            "feels_like_c": 26.02,
+            "humidity": 86,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Alappuzha",
+            "time": "2025-09-26T11:23:44",
+            "temperature_c": 26.87,
+            "feels_like_c": 29.63,
+            "humidity": 82,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Kottayam",
+            "time": "2025-09-26T11:23:45",
+            "temperature_c": 27.68,
+            "feels_like_c": 31.45,
+            "humidity": 81,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Idukki",
+            "time": "2025-09-26T11:23:47",
+            "temperature_c": 23.11,
+            "feels_like_c": 23.28,
+            "humidity": 69,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Ernakulam",
+            "time": "2025-09-26T11:23:48",
+            "temperature_c": 27.92,
+            "feels_like_c": 32.36,
+            "humidity": 83,
+            "weather": "Mist",
+            "description": "mist"
+        },
+        {
+            "district": "Thrissur",
+            "time": "2025-09-26T11:23:50",
+            "temperature_c": 27.25,
+            "feels_like_c": 30.86,
+            "humidity": 85,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Palakkad",
+            "time": "2025-09-26T11:23:52",
+            "temperature_c": 29.68,
+            "feels_like_c": 36.68,
+            "humidity": 89,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Malappuram",
+            "time": "2025-09-26T11:23:53",
+            "temperature_c": 28.44,
+            "feels_like_c": 32.18,
+            "humidity": 74,
+            "weather": "Clouds",
+            "description": "scattered clouds"
+        },
+        {
+            "district": "Kozhikode",
+            "time": "2025-09-26T11:23:55",
+            "temperature_c": 28.55,
+            "feels_like_c": 32.1,
+            "humidity": 72,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Wayanad",
+            "time": "2025-09-26T11:23:56",
+            "temperature_c": 25.47,
+            "feels_like_c": 25.56,
+            "humidity": 57,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Kannur",
+            "time": "2025-09-26T11:23:58",
+            "temperature_c": 28.12,
+            "feels_like_c": 30.9,
+            "humidity": 70,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        },
+        {
+            "district": "Kasaragod",
+            "time": "2025-09-26T11:23:59",
+            "temperature_c": 26.45,
+            "feels_like_c": 26.45,
+            "humidity": 71,
+            "weather": "Clouds",
+            "description": "overcast clouds"
+        }
+    ],
+    "log": {
+        "date": null,
+        "irrigation": {
+            "duration": "2.5 hours (6:30 AM to 9:00 AM)",
+            "fields_watered": [
+                "paddy fields",
+                "vegetable beds"
+            ],
+            "method": null,
+            "water_source": null
+        },
+        "soil_fertilizer": {
+            "soil_condition": "dry soil in vegetable beds, especially near okra and bitter gourd, likely due to recent heatwave",
+            "soil_tests": null,
+            "fertilizers_applied": [
+                "light dose of neem oil spray to brinjal plants"
+            ]
+        },
+        "pest_disease": {
+            "observed": [
+                "yellow patches on brinjal leaves",
+                "aphids on underside of banana leaves"
+            ],
+            "treatment_applied": [
+                "neem oil spray on brinjal plants"
+            ],
+            "damage_notes": "Yellow patches on brinjal leaves potentially due to nitrogen deficiency or early fungal infection"
+        },
+        "labor_operations": {
+            "tasks_completed": [
+                "cleared debris from water channels in paddy fields for 30 minutes",
+                "fixed a loose plank in the cow shed",
+                "cleaned the feeding trough",
+                "harvested about 3 kg of long beans",
+                "harvested about 2 kg of okra",
+                "tapped rubber trees"
+            ],
+            "labor_hours": null,
+            "workers": null
+        },
+        "machinery": {
+            "equipment_used": null,
+            "maintenance_notes": "Minor repairs done in the cow shed, including fixing a loose plank and cleaning the feeding trough",
+            "fuel_used": null
+        },
+        "weather": {
+            "temperature": null,
+            "rainfall": null,
+            "humidity": null,
+            "wind": null,
+            "sunlight_hours": null
+        },
+        "crops": [
+            "paddy",
+            "vegetables including okra, bitter gourd, brinjal, banana, long beans, rubber trees"
+        ],
+        "additional_notes": "Latex yield from rubber trees was slightly lower than usual, possibly due to dry soil. Plans to monitor soil moisture levels and adjust irrigation or add compost."
+    }
+}
